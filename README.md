@@ -12,4 +12,4 @@ For further questions regarding the manuscript or the code provided here, please
 
 <p align="center">
   <img src="./Fig/DJI_20241112190358_0007_V.JPG" alt="Alt text" width="800">
-</p>`
+</p>
