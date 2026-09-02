@@ -1,5 +1,5 @@
 # Drone-based Lion Monitoring 🦁🐾
-This repository contains all data and notebooks necessary to reproduce the results of the manuscript "Drone-based aerial monitoring improves demographic accuracy of lion groups with low behavioral impact" (Iannino et al. 2026; currently under review).
+This repository contains all data and notebooks necessary to reproduce the results of the manuscript "Drone aerial monitoring improves demographic accuracy of lion groups with low behavioral impact" (Iannino et al. 2026; currently under review).
 Please find more information on the notebooks' content below:
 
 - `ToleranceTest_MasterDoc.xlsx`: The dataset used for all analyses in our study.
