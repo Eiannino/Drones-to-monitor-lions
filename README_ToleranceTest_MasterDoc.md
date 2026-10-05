@@ -11,7 +11,7 @@ This file is the raw input for all analyses in this repository (exploratory anal
 | | |
 |---|---|
 | **Location** | Ol Pejeta Conservancy, Laikipia County, central Kenya (0°00ʹ N, 36°54ʹ E) |
-| **Period** | 7 November – 2 December 2024 (14 field days in this file) |
+| **Period** | November – December 2024 |
 | **Daily window** | 08:20 – 18:25 local time |
 | **Subjects** | Lion groups from 5 prides: Ajali, Bima, Sela, Utali, Wanjiku |
 | **Trials** | 69 straight-line drone approach flights (one row per flight) |
@@ -35,12 +35,11 @@ In each trial the drone took off from the open-roof research vehicle and climbed
 
 ## File structure
 
-The workbook has two sheets:
+The workbook has one sheet:
 
 | Sheet | Content |
 |---|---|
 | `Tolerance test` | Main dataset: 69 rows (one per drone trial) × 56 columns |
-| `Flight logs` | Column headers only (`Test_ID`, `Date`, `Distance`, `Duration`); contains no data |
 
 ### Coding conventions
 
