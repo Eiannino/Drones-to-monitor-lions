@@ -3,7 +3,7 @@ This repository contains all data and notebooks necessary to reproduce the resul
 Please find more information on the notebooks' content below:
 
 - `ToleranceTest_MasterDoc.xlsx`: The dataset used for all analyses in our study.
-- 'README_ToleranceTest_MasterDoc.md': The metadata related to the dataset.
+- `README_ToleranceTest_MasterDoc.md`: The metadata related to the dataset.
 - `Initial_data_exploration.ipynb`: Code for the exploratory analyses conducted prior to statistical modeling.
 - `Disturbance_models.ipynb`: Code used to generate models regarding drone-induced disturbance of lions.
 - `Observability_models.ipynb`: Models comparing ground- vs. drone-based observations of lion pride size and -demographic.
